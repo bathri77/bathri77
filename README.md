@@ -1,7 +1,7 @@
-[![MasterHead](https://www.vecteezy.com/vector-art/24704261-computer-geek-cartoon-vector-illustration-happy-computer-engineer-or-hardware-technician-assembling-or-fixing-a-computer-with-a-screwdriver-vector-image-colored-and-black-and-white)](https://bathri77.io)
+[![MasterHead](https://i.pinimg.com/564x/a5/27/c6/a527c6ba82174cfc93e031a1c2297c09.jpg)](https://bathri77.io)
 <h1 align="center">Hi 👋, I'm PN Bathrinarayana</h1>
 <h3 align="center">A passionate Hardware&Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bathri77&label=Profile%20views&color=0e75b6&style=flat" alt="bathri77" /> </p>
